@@ -2,5 +2,6 @@
 node{
 stage('Test'){
 echo "Testing is successful"
+echo "GitHub"
 }
 }
