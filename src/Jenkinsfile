@@ -1,6 +1,7 @@
 @Library('hello-word')_
 node{
 stage('Test'){
+  echo "Hello"
 echo "GitLab"
 echo "Testing is successful"
 
