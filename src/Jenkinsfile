@@ -1,4 +1,4 @@
-@Library('Hello word')_
+@Library('hello word')_
 node{
 stage('Test'){
 echo "Testing is successful"
