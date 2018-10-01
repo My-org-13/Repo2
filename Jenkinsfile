@@ -10,6 +10,6 @@ node('Linux_217')
 stage('Test')
 {
 echo "Testing is successful"
-  echo "Done"
+ 
 }
 }
