@@ -2,7 +2,6 @@
 node{
 stage('Test'){
   echo "Hello"
-  echo "hii"
 echo "GitLab"
 echo "Testing is successful"
 }
