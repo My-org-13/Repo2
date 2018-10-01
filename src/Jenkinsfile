@@ -5,7 +5,5 @@ stage('Test'){
   echo "hii"
 echo "GitLab"
 echo "Testing is successful"
-
-  
 }
 }
