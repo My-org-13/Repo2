@@ -7,7 +7,7 @@ echo "Building"
 }
 node('Linux_217')
 {
-stage('Test)
+stage('Test')
 {
 echo "Testing is successful"
 }
