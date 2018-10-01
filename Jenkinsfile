@@ -1,4 +1,4 @@
-@Library('hello-word')_
+/*@Library('hello-word')_*/
 node('master'){
 stage('Build')
 {
